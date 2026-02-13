@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "type": "photo",
+    "title": "台北101夜景",
+    "location": "台灣 台北",
+    "description": "從象山拍攝的台北101夜景，璀璨的燈光點亮整個城市天際線。",
+    "thumbnail": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1920&h=1080&fit=crop",
+    "tags": ["台北", "夜景", "城市", "101"]
+  },
+  {
+    "id": 2,
+    "type": "photo",
+    "title": "阿里山日出",
+    "location": "嘉義 阿里山",
+    "description": "清晨的阿里山，雲海與日出交織出絕美的畫面。",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+    "tags": ["阿里山", "日出", "雲海", "山脈"]
+  },
+  {
+    "id": 3,
+    "type": "360-photo",
+    "title": "日月潭全景",
+    "location": "南投 日月潭",
+    "description": "360度環景欣賞日月潭的湖光山色，感受台灣最美麗的湖泊風光。",
+    "thumbnail": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=1920&h=1080&fit=crop",
+    "tags": ["日月潭", "湖泊", "全景", "360度"]
+  },
+  {
+    "id": 4,
+    "type": "video",
+    "title": "墾丁海岸風光",
+    "location": "屏東 墾丁",
+    "description": "碧藍的海水拍打著沙灘，墾丁獨特的熱帶風情。",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-water-1164-large.mp4",
+    "tags": ["墾丁", "海灘", "海岸", "影片"]
+  },
+  {
+    "id": 5,
+    "type": "photo",
+    "title": "九份老街",
+    "location": "新北 九份",
+    "description": "夜晚的九份老街，紅燈籠點亮山城，宛如電影場景。",
+    "thumbnail": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1920&h=1080&fit=crop",
+    "tags": ["九份", "老街", "夜景", "山城"]
+  },
+  {
+    "id": 6,
+    "type": "photo",
+    "title": "太魯閣峽谷",
+    "location": "花蓮 太魯閣",
+    "description": "壯麗的太魯閣峽谷，大理石峭壁與清澈溪流。",
+    "thumbnail": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1920&h=1080&fit=crop",
+    "tags": ["太魯閣", "峽谷", "國家公園", "花蓮"]
+  },
+  {
+    "id": 7,
+    "type": "360-video",
+    "title": "蘭嶼環島360°",
+    "location": "台東 蘭嶼",
+    "description": "360度影片帶您環島蘭嶼，體驗達悟族文化與原始海岸風光。",
+    "thumbnail": "https://images.unsplash.com/photo-1516815231560-8f41ec531527?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1516815231560-8f41ec531527?w=1920&h=1080&fit=crop",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-coral-reef-with-fish-and-corals-4104-large.mp4",
+    "tags": ["蘭嶼", "環島", "360影片", "海岸"]
+  },
+  {
+    "id": 8,
+    "type": "photo",
+    "title": "高美濕地夕陽",
+    "location": "台中 高美濕地",
+    "description": "黃昏時分的高美濕地，夕陽倒映在水面上，風車與天空相輝映。",
+    "thumbnail": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=1920&h=1080&fit=crop",
+    "tags": ["高美濕地", "夕陽", "台中", "濕地"]
+  },
+  {
+    "id": 9,
+    "type": "photo",
+    "title": "玉山主峰",
+    "location": "南投 玉山",
+    "description": "台灣最高峰玉山，海拔3952公尺，雲海與群山盡收眼底。",
+    "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1920&h=1080&fit=crop",
+    "tags": ["玉山", "高山", "百岳", "雲海"]
+  },
+  {
+    "id": 10,
+    "type": "video",
+    "title": "野柳地質公園",
+    "location": "新北 野柳",
+    "description": "奇特的地質景觀，女王頭與蕈狀岩的奇妙世界。",
+    "thumbnail": "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1920&h=1080&fit=crop",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-flying-over-a-green-valley-1222-large.mp4",
+    "tags": ["野柳", "地質", "女王頭", "影片"]
+  },
+  {
+    "id": 11,
+    "type": "360-photo",
+    "title": "清境農場羊群",
+    "location": "南投 清境",
+    "description": "360度環景欣賞清境農場的青青草原與可愛羊群。",
+    "thumbnail": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=1920&h=1080&fit=crop",
+    "tags": ["清境", "農場", "草原", "全景"]
+  },
+  {
+    "id": 12,
+    "type": "photo",
+    "title": "淡水漁人碼頭",
+    "location": "新北 淡水",
+    "description": "黃昏的淡水漁人碼頭，情人橋與夕陽構成浪漫畫面。",
+    "thumbnail": "https://images.unsplash.com/photo-1499002238440-d264f532dd44?w=600&h=400&fit=crop",
+    "fullsize": "https://images.unsplash.com/photo-1499002238440-d264f532dd44?w=1920&h=1080&fit=crop",
+    "tags": ["淡水", "碼頭", "夕陽", "情人橋"]
+  }
+]

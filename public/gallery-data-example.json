@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "type": "photo",
+    "title": "阿爾卑斯山脈",
+    "location": "瑞士, 歐洲",
+    "description": "壯麗的阿爾卑斯山脈，白雪覆蓋的山峰在陽光下閃耀著金色光芒。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["山脈", "瑞士", "自然"]
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "title": "馬爾地夫海灘",
+    "location": "馬爾地夫, 印度洋",
+    "description": "清澈見底的海水，純白的沙灘，這是人間天堂的模樣。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "videoUrl": "https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view",
+    "tags": ["海灘", "馬爾地夫", "度假"]
+  },
+  {
+    "id": 3,
+    "type": "360-photo",
+    "title": "京都竹林",
+    "location": "京都, 日本",
+    "description": "嵐山竹林步道，陽光穿透竹葉灑落，如夢似幻的日式庭園。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["日本", "竹林", "自然"]
+  },
+  {
+    "id": 4,
+    "type": "photo",
+    "title": "聖托里尼日落",
+    "location": "希臘, 歐洲",
+    "description": "愛琴海上最美的日落，藍白相間的建築在夕陽下格外迷人。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["希臘", "日落", "建築"]
+  },
+  {
+    "id": 5,
+    "type": "360-video",
+    "title": "大堡礁探索",
+    "location": "澳洲, 大洋洲",
+    "description": "潛入世界最大的珊瑚礁系統，與海洋生物近距離接觸。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "videoUrl": "https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view",
+    "tags": ["澳洲", "海洋", "潛水"]
+  },
+  {
+    "id": 6,
+    "type": "photo",
+    "title": "冰島極光",
+    "location": "冰島, 北歐",
+    "description": "北極圈內的夢幻極光，綠色光帶在夜空中舞動。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["冰島", "極光", "自然"]
+  },
+  {
+    "id": 7,
+    "type": "video",
+    "title": "挪威峽灣",
+    "location": "挪威, 北歐",
+    "description": "壯觀的峽灣地貌，碧綠色的海水映照著雪山倒影。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "videoUrl": "https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view",
+    "tags": ["挪威", "峽灣", "自然"]
+  },
+  {
+    "id": 8,
+    "type": "360-photo",
+    "title": "泰姬瑪哈陵",
+    "location": "印度, 亞洲",
+    "description": "世界七大奇蹟之一，愛情的永恆象徵，白色大理石建築的極致。",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["印度", "建築", "世界遺產"]
+  }
+]

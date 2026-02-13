@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wanderlens - 探索世界的視角</title>
+    <meta http-equiv="refresh" content="0; url=./">
+    <script>
+        // GitHub Pages SPA 重定向
+        // 當訪問 404 頁面時，重定向到首頁並保留路徑資訊
+        var pathSegments = window.location.pathname.split('/');
+        var repoName = ''; // 如果部署在子路徑，這裡填入 repo 名稱
+        
+        // 找到實際路徑
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        
+        // 構建重定向 URL（使用 hash 模式所以直接導向首頁）
+        var redirectUrl = window.location.origin + window.location.pathname.split('/').slice(0, -1).join('/') + '/';
+        
+        // 如果有額外路徑，轉換為 hash
+        if (hash || search) {
+            redirectUrl += search + hash;
+        }
+        
+        window.location.replace(redirectUrl);
+    </script>
+</head>
+<body>
+    <p>正在重定向...</p>
+</body>
+</html>

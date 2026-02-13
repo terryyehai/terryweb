@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "type": "photo",
+    "title": "範例照片 1",
+    "location": "台灣",
+    "description": "這是第一張範例照片",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_FULLSIZE_FILE_ID/view",
+    "tags": ["台灣", "風景"]
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "title": "範例影片",
+    "location": "台北",
+    "description": "這是範例影片",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_VIDEO_THUMBNAIL_ID/view",
+    "videoUrl": "https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view",
+    "tags": ["台北", "城市"]
+  },
+  {
+    "id": 3,
+    "type": "360-photo",
+    "title": "360° 全景照片",
+    "location": "日月潭",
+    "description": "360度環景照片",
+    "thumbnail": "https://drive.google.com/file/d/YOUR_THUMBNAIL_FILE_ID/view",
+    "fullsize": "https://drive.google.com/file/d/YOUR_360_PHOTO_ID/view",
+    "tags": ["日月潭", "全景"]
+  }
+]
