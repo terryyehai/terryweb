@@ -13,7 +13,8 @@ const navLinks = [
   { name: 'Gallery', path: '/gallery', label: '相簿' },
   { name: 'About', path: '/about', label: '關於' },
   { name: 'Contact', path: '/contact', label: '聯絡' },
-  { name: 'Settings', path: '/settings', label: '設定' }
+  { name: 'Settings', path: '/settings', label: '設定' },
+  { name: 'Admin', path: '/admin', label: '後台' }
 ]
 </script>
 

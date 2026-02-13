@@ -36,6 +36,11 @@ const router = createRouter({
       component: () => import('@/views/SettingsView.vue')
     },
     {
+      path: '/admin',
+      name: 'Admin',
+      component: () => import('@/views/AdminView.vue')
+    },
+    {
       // 404 頁面
       path: '/:pathMatch(.*)*',
       name: 'NotFound',
